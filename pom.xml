@@ -34,9 +34,7 @@
         <dependency>
             <groupId>com.javarush</groupId>
             <artifactId>desktop-game-engine</artifactId>
-            <scope>system</scope>
             <version>1.0</version>
-            <systemPath>${basedir}/lib/desktop-game-engine.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
